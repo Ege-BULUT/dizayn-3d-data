@@ -22,7 +22,12 @@
    ],
    "modelUp": "auto",
    "active": true,
-   "filamentStock": "default-stock"
+   "filamentStock": "default-stock",
+   "spin": {
+    "url": "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790368087694-2ae1c753-p-01-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-02",
@@ -42,7 +47,12 @@
    "stlUrl": "/assets/stl/kablo-duzenleyici.stl",
    "categories": [
     "ev-yasam"
-   ]
+   ],
+   "spin": {
+    "url": "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790368093782-2d5d6d31-p-02-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-03",
@@ -82,7 +92,12 @@
    "stlUrl": "/assets/stl/saksi.stl",
    "categories": [
     "ev-yasam"
-   ]
+   ],
+   "spin": {
+    "url": "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790368099833-a76e10a1-p-04-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-05",
@@ -102,7 +117,12 @@
    "stlUrl": "/assets/stl/telefon-standi.stl",
    "categories": [
     "ev-yasam"
-   ]
+   ],
+   "spin": {
+    "url": "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790368105469-0680b1f1-p-05-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-06",
@@ -122,7 +142,12 @@
    "stlUrl": "/assets/stl/hex-kalemlik.stl",
    "categories": [
     "ev-yasam"
-   ]
+   ],
+   "spin": {
+    "url": "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790368111140-a54612a6-p-06-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-07",
