@@ -1,0 +1,171 @@
+{
+ "products": [
+  {
+   "id": "p-01",
+   "slug": "p-01",
+   "title": {
+    "tr": "Geometrik Vazo L",
+    "en": "Geometric Vase L"
+   },
+   "desc": {
+    "tr": "Üçgen desenli spiral vazo, PETG mat.",
+    "en": "Triangular-pattern spiral vase, matte PETG."
+   },
+   "price": 350,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23e9e4d8%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EVASE%2001%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E",
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23dcd6c6%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EVASE%2001-B%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E",
+    "https://cdn.jsdelivr.net/gh/Ege-BULUT/dizayn-3d-data@acp/uploads/1790366765728-131d6aa6-acp-test.png"
+   ],
+   "stlUrl": "/assets/stl/spiral-vazo.stl",
+   "categories": [
+    "vazo"
+   ],
+   "modelUp": "auto",
+   "active": true,
+   "filamentStock": "default-stock"
+  },
+  {
+   "id": "p-02",
+   "slug": "kablo-duzenleyici",
+   "title": {
+    "tr": "Masa Kablo Düzenleyici",
+    "en": "Desk Cable Organizer"
+   },
+   "desc": {
+    "tr": "Masanın altına yapışkan tabanlı 3 kanal yönlendirici.",
+    "en": "Under-desk 3-channel cable guide with adhesive base."
+   },
+   "price": 129,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23dfe6e8%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3ECABLE%20HUB%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": "/assets/stl/kablo-duzenleyici.stl",
+   "categories": [
+    "ev-yasam"
+   ]
+  },
+  {
+   "id": "p-03",
+   "slug": "kuluçka-robot-figur",
+   "title": {
+    "tr": "Articulated Robot Figür",
+    "en": "Articulated Robot Figure"
+   },
+   "desc": {
+    "tr": "Tek parça baskı, eklemleri çıkan esnek robot 15 cm.",
+    "en": "Single-print flexible robot, joints come out of the printer, 15 cm."
+   },
+   "price": 279,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23e8e0da%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EROBO-FIG%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": null,
+   "categories": [
+    "figur"
+   ]
+  },
+  {
+   "id": "p-04",
+   "slug": "bitki-saksi-mini",
+   "title": {
+    "tr": "Mini Saksi Seti (3'lü)",
+    "en": "Mini Planter Set (3-pack)"
+   },
+   "desc": {
+    "tr": "Fuşya ile baskıya uygun, drenaj delikli üç boyut.",
+    "en": "Resin-ready three sizes with drainage holes."
+   },
+   "price": 219,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23e2e7dc%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EPLANTERS%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": "/assets/stl/saksi.stl",
+   "categories": [
+    "ev-yasam"
+   ]
+  },
+  {
+   "id": "p-05",
+   "slug": "telefon-standi",
+   "title": {
+    "tr": "Ayarlanabilir Telefon Standı",
+    "en": "Adjustable Phone Stand"
+   },
+   "desc": {
+    "tr": "Yatay/dikey, 4 açı kilidi, kabloya geçiş yuvası.",
+    "en": "Portrait/landscape, 4 angle locks, cable pass-through."
+   },
+   "price": 159,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23e6e2e9%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EPHONE%20DOCK%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": "/assets/stl/telefon-standi.stl",
+   "categories": [
+    "ev-yasam"
+   ]
+  },
+  {
+   "id": "p-06",
+   "slug": "duvar-rafi-modul",
+   "title": {
+    "tr": "Modüler Duvar Rafı Modülü",
+    "en": "Modular Wall Shelf Module"
+   },
+   "desc": {
+    "tr": "Yan yana ve üst üste büyüyen altıgen raf hücresi.",
+    "en": "Hexagonal shelf cell that grows side-by-side and stacked."
+   },
+   "price": 289,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23e8e4dc%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3ESHELF%20HEX%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": "/assets/stl/hex-kalemlik.stl",
+   "categories": [
+    "ev-yasam"
+   ]
+  },
+  {
+   "id": "p-07",
+   "slug": "isim-anahtarligi",
+   "title": {
+    "tr": "İsim Anahtarlığı",
+    "en": "Name Keychain"
+   },
+   "desc": {
+    "tr": "İsmini yazdıran hafif PLA anahtarlık, çift taraf.",
+    "en": "Lightweight PLA keychain with your name, two-sided."
+   },
+   "price": 89,
+   "images": [
+    "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22640%22%20height%3D%22640%22%3E%0A%20%20%20%20%20%20%3Crect%20width%3D%22640%22%20height%3D%22640%22%20fill%3D%22%23ece6da%22%2F%3E%0A%20%20%20%20%20%20%3Cg%20fill%3D%22%2316151d%22%20font-family%3D%22system-ui%2Csans-serif%22%20font-size%3D%2230%22%20font-weight%3D%22700%22%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2247%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.55%22%3EKEYCHAIN%3C%2Ftext%3E%0A%20%20%20%20%20%20%20%20%3Ctext%20x%3D%2250%25%22%20y%3D%2256%25%22%20text-anchor%3D%22middle%22%20opacity%3D%22.3%22%20font-size%3D%2218%22%3Eplaceholder%3C%2Ftext%3E%0A%20%20%20%20%20%20%3C%2Fg%3E%0A%20%20%20%20%3C%2Fsvg%3E"
+   ],
+   "stlUrl": null,
+   "categories": [
+    "anahtarlik"
+   ]
+  }
+ ],
+ "categories": [
+  {
+   "id": "ev-yasam",
+   "tr": "Ev Yaşam",
+   "en": "Home Living"
+  },
+  {
+   "id": "anahtarlik",
+   "tr": "Anahtarlıklar",
+   "en": "Keychains"
+  },
+  {
+   "id": "figur",
+   "tr": "Figürler",
+   "en": "Figures"
+  },
+  {
+   "id": "vazo",
+   "tr": "Vazolar",
+   "en": "Vases"
+  }
+ ]
+}
