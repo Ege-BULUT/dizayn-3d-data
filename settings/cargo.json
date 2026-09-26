@@ -1,0 +1,1 @@
+{"fee":150,"freeMin":2000,"default":"PTT","companies":[{"name":"PTT","trackingUrl":"https://gonderitakip.ptt.gov.tr/Track/Verify?q={code}","fee":null},{"name":"Aras Kargo","trackingUrl":"https://ebranch.araskargo.com.tr/track/{code}","fee":null},{"name":"MNG","trackingUrl":"https://kargotakip.mngkargo.com.tr/?takipNo={code}","fee":null}]}
