@@ -55,7 +55,12 @@
      ]
     }
    ],
-   "createdAt": "2026-09-19T07:59:16.900Z"
+   "createdAt": "2026-09-19T07:59:16.900Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423793803-599298ca-harf-isim-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "ozel-qr",
@@ -103,7 +108,12 @@
      ]
     }
    ],
-   "createdAt": "2026-09-19T07:40:46.240Z"
+   "createdAt": "2026-09-19T07:40:46.240Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423800624-fc9952f0-ozel-qr-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "kiz-kulesi",
@@ -131,7 +141,12 @@
    "modelUp": "auto",
    "active": true,
    "filamentStock": "default-stock",
-   "createdAt": "2026-09-19T07:10:37.743Z"
+   "createdAt": "2026-09-19T07:10:37.743Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423808096-9832e678-kiz-kulesi-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "P-08",
@@ -175,7 +190,12 @@
     "fonksiyonel-urunler",
     "ev"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423815721-0023c37b-P-08-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "orman-tokasi",
@@ -200,7 +220,12 @@
     "sanat-dekorasyon",
     "moda"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423827777-fca7f16c-orman-tokasi-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "agac-anahtarlik-1",
@@ -228,7 +253,12 @@
     "ev",
     "organizerler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423837640-ef2da984-agac-anahtarlik-1-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-11",
@@ -255,7 +285,12 @@
     "ev",
     "organizerler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423853011-2f33603c-p-11-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-14",
@@ -279,7 +314,12 @@
     "hobi",
     "oyuncaklar"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423869021-8ea7bd8d-p-14-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-09",
@@ -305,7 +345,12 @@
     "fonksiyonel-urunler",
     "oyuncaklar"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423875235-d9b812fb-p-09-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-12",
@@ -330,7 +375,12 @@
     "hobi",
     "oyuncaklar"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423887441-cbffd871-p-12-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-13",
@@ -353,7 +403,12 @@
    "categories": [
     "fonksiyonel-urunler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423894722-c6809ea1-p-13-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "hayalet-1",
@@ -381,7 +436,12 @@
     "oyuncaklar",
     "donemsel"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423901817-cc6f1da0-hayalet-1-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "owl-hairpin",
@@ -432,7 +492,12 @@
    "modelUp": "auto",
    "active": true,
    "filamentStock": "default-stock",
-   "createdAt": "2026-09-19T08:20:56.923Z"
+   "createdAt": "2026-09-19T08:20:56.923Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423924700-13258aa2-custom-puzzle-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "araba-esya-tutucu",
@@ -458,7 +523,12 @@
     "organizerler",
     "arac-eklentileri"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423932804-3684f4f8-araba-esya-tutucu-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-07",
@@ -484,7 +554,12 @@
     "fonksiyonel-urunler",
     "ev"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423941441-8585b295-p-07-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "p-10",
@@ -509,7 +584,12 @@
     "fonksiyonel-urunler",
     "organizerler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423948322-76a74008-p-10-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "dolap-poset-askisi",
@@ -538,7 +618,12 @@
     "ev",
     "organizerler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423956435-b880cba9-dolap-poset-askisi-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "kartlik-1",
@@ -564,7 +649,12 @@
     "fonksiyonel-urunler",
     "organizerler"
    ],
-   "createdAt": "2026-09-15T12:42:03.560Z"
+   "createdAt": "2026-09-15T12:42:03.560Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423962712-7b10d43e-kartlik-1-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "powder-scoop",
@@ -591,7 +681,12 @@
    "modelUp": "z",
    "active": true,
    "filamentStock": "default-stock",
-   "createdAt": "2026-09-17T17:52:48.998Z"
+   "createdAt": "2026-09-17T17:52:48.998Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423973334-aa404d35-powder-scoop-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "Ally-Holder",
@@ -635,7 +730,12 @@
       }
      ]
     }
-   ]
+   ],
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423979586-fc80c494-Ally-Holder-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   },
   {
    "id": "kartlik-2",
@@ -660,7 +760,12 @@
    "modelUp": "auto",
    "active": true,
    "filamentStock": "default-stock",
-   "createdAt": "2026-09-17T21:23:56.938Z"
+   "createdAt": "2026-09-17T21:23:56.938Z",
+   "spin": {
+    "url": "https://unprxfncqi5by2e2.public.blob.vercel-storage.com/uploads/1790423986524-134a22d6-kartlik-2-360.webp",
+    "frames": 36,
+    "cols": 6
+   }
   }
  ],
  "categories": [
